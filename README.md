@@ -1,9 +1,9 @@
-# 💍 Wedding Landing Page — Omkesh & Isha
+# 💍 Wedding Landing Page — Akshay & Rupali
 
 A beautifully crafted wedding invitation website designed to celebrate  
-**Omkesh & Isha’s special day** with elegance and simplicity.
+**Akshay & Rupali’s special day** with elegance and simplicity.
 
-![Wedding Thumbnail](image/I&O.png)
+![Wedding Thumbnail](image/A&R.png)
 
 ---
 
@@ -33,7 +33,7 @@ A beautifully crafted wedding invitation website designed to celebrate
 ## 🌐 Live Demo
 
 👉 **Check the live version here:**  
-🔗 https://omkeshs.github.io/wedding-invitation
+🔗 https://akshaysamase.github.io/wedding-invitation
 
 ---
 
